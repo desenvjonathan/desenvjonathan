@@ -25,8 +25,8 @@
 <br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i> &ensp;🛠️</h2>
-<img align="left" height="279px" width="310px" alt="quote" src="./technology.gif"/>
-<table align="right" height="279px">
+<img align="left" height="300px" width="300px" alt="quote" src="./technology.gif"/>
+<table align="right" height="300px">
   <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/195136732-47fe1df9-2591-445a-bfac-fe540315f2a5.svg" width="65px" alt="windows icon"/><br>
@@ -181,7 +181,7 @@
   <a href="https://www.linkedin.com/in/jonathan-ramos-p/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
-  <a href="https://wa.me/5561982272090?text=Yo,%20sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." alt="WhatsApp" target="_blank">
+  <a href="https://wa.me/5561982272090?text=Sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." alt="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
   </a>
   <a href="https://www.instagram.com/jon_ramos97/" alt="Instagram" target="_blank">
@@ -192,8 +192,8 @@
 <br><br><br>
 
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
-<img align="right" src="./rain-study.gif" height="495px" width="390px" alt="projects image">
-<table height="495px" width="390px">
+<img align="right" src="./rain-study.gif" height="495px" width="380px" alt="projects image">
+<table height="495px" width="380px">
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/mini-portfolio" target="_blank">
