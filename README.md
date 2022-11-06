@@ -192,8 +192,8 @@
 <br><br><br>
 
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
-<img align="right" src="./rain-study.gif" height="496px" width="370px" alt="projects image">
-<table height="495px">
+<img align="right" src="./rain-study.gif" height="495px" width="380px" alt="projects image">
+<table height="495px" width="380px">
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/mini-portfolio" target="_blank">
