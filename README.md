@@ -25,7 +25,7 @@
 <br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i> &ensp;🛠️</h2>
-<img align="left" height="279px" width="320px" alt="quote" src="./technology.gif"/>
+<img align="left" height="279px" width="310px" alt="quote" src="./technology.gif"/>
 <table align="right" height="279px">
   <tr>
     <td align="center">
@@ -192,8 +192,8 @@
 <br><br><br>
 
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
-<img align="right" src="./rain-study.gif" height="495px" width="380px" alt="projects image">
-<table height="495px" width="380px">
+<img align="right" src="./rain-study.gif" height="495px" width="390px" alt="projects image">
+<table height="495px" width="390px">
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/mini-portfolio" target="_blank">
