@@ -25,7 +25,7 @@
 <br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i> &ensp;🛠️</h2>
-<img align="left" width="280px" alt="quote" src="./technology.gif"/>
+<img align="left" height="279px" width="340px" alt="quote" src="./technology.gif"/>
 <table align="right" height="279px">
   <tr>
     <td align="center">
@@ -170,7 +170,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏｓ</i> &ensp;💬</h2>
-<img align="left" width="185px" src="./eye.webp" alt="anime coding">
+<img align="left" width="220px" height="180px" src="./eye.webp" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://docs.google.com/document/d/1h95nKIQ5ASSYmv8kV7I2Za1CLo9_5ELUt92S_SSwaSk/edit?usp=sharing">
