@@ -192,7 +192,7 @@
 <br><br><br>
 
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
-<img align="right" src="./rain-study.gif" height="496px" alt="projects image">
+<img align="right" src="./rain-study.gif" height="496px" width="360px" alt="projects image">
 <table height="495px">
   <tr>
     <td>
