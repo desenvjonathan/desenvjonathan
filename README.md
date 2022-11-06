@@ -95,7 +95,7 @@
         </b>
       </sub>
     </td>
-    <td align="center">
+<!--     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
       <sub>
         <b>
@@ -165,8 +165,8 @@
         </b>
       </sub>
     </td>
-  </tr>
-</table>
+  </tr>-->
+</table> 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏｓ</i> &ensp;💬</h2>
