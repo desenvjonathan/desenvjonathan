@@ -2,7 +2,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
-<img align="right" src="./yo.gif" width="360px" height="250px"alt="anime chilling">
+<img align="right" src="./yo.gif" width="360px" height="250px" alt="anime chilling">
 <!-- <table align="center">
   <tr>
     <td>
@@ -15,7 +15,7 @@
     </td>
   </tr>
 </table> -->
-<ul align="left">
+<ul margin-right="400px" align="left">
     <li>🤩️ Amante da Tecnologia, Animes, Café e Lo-Fi 🤩️</li>
     <li>🚀 Estou em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end 🚀</li>
     <li>💻 Estudo na Faculdade <a href="https://www.iesb.br/" target="_blank"> IESB </a> e na escola de formação de devs <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> 💻</li>
