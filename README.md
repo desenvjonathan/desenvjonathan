@@ -112,6 +112,7 @@
       </sub>
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br>
@@ -154,6 +155,7 @@
       </sub>
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
@@ -190,7 +192,7 @@
 <br><br><br>
 
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
-<img align="right" src="./kame-camp.png" height="495px" width="380px" alt="projects image">
+<img align="right" src="./rain-study.gif" height="495px" width="380px" alt="projects image">
 <table height="495px" width="380px">
   <tr>
     <td>
