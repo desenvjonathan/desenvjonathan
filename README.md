@@ -25,7 +25,7 @@
 <br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i> &ensp;🛠️</h2>
-<img align="left" height="295px" width="300px" alt="quote" src="./technology.gif"/>
+<img align="left" height="295px" width="300px" alt="quote" src="./coding.gif"/>
 <table align="right" height="300px">
   <tr>
     <td align="center">
@@ -192,8 +192,8 @@
 <br><br><br>
 
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
-<img align="right" src="./kame-camp.png" height="495px" width="380px" alt="projects image">
-<table height="495px" width="380px">
+<img align="right" src="./kame-camp.png" height="495px" width="365px" alt="projects image">
+<table height="495px" width="365px">
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/desenvjonathan" target="_blank">
