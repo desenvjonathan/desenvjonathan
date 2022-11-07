@@ -1,164 +1,38 @@
-<img align="left" width="100%" alt="about" src="./headerBackground-en.gif"/>
+<img align="left" width="100%" alt="about" src="./chill.gif"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="center">📇 &ensp; <i>Ａｂｏｕｔ</i></h2>
-<img align="right" src="./analysis.gif" width="395px" alt="anime chilling">
-<table align="center">
+<h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
+<img align="right" src="./yo.gif" width="360px" alt="anime chilling">
+<!-- <table align="center">
   <tr>
     <td>
-      <a href="README.md">🇧🇷 Português</a>
-    </td>
-    <td>
       <b>
-        <a href="readme-en.md">🇺🇸 English</a>
+        <a href="README.md">🇧🇷 Português</a>
       </b>
     </td>
+    <td>
+      <a href="README-EN.md">🇺🇸 English</a>
+    </td>
   </tr>
-</table>
+</table> -->
 <ul align="left">
-    <li>🤩️ Passionate about Technology, Animes and Lo-Fi.</li>
-    <li>💻 I currently study at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a> and at <a href="https://www.dio.me" target ="_blank">DIO<a/>, but I've been through <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Video Course</a> and <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
-    <li>🔭 To further expand my Stack and portfolio, I am constantly acquiring new skills and developing projects.</li>
-    <li>🔮 I'm specializing in Front-end, but I have a good understanding of Back-end, as my long-term goal is to become Full-Stack.</li>
-    <li>🚀 Currently getting deeper into: <b>ReactJS</b> and <b>Javascript</b>.</li>
+    <li>🤩️ Amante da Tecnologia, Animes, Café e Lo-Fi 🤩️</li>
+    <li>🚀 Estou em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end 🚀</li>
+    <li>💻 Estudo na Faculdade <a href="https://www.iesb.br/" target="_blank"> IESB </a> e na escola de formação de devs <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> 💻</li>
+    <li>📝 Atualmente estou aprendendo <b>JavaScript</b> e <b>ReactJS</b> na Rocketseat e <b>Python</b> na IESB. 📝</li>
+    <li>🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedor front-end (talvez fullstack) Web e Mobile. 🔮
 </ul>
 <br>
 
-<h2 align="center">🛠️ &ensp; <i>Ｔｅｃｈｎｏｌｏｇｉｅｓ</i></h2>
-<img align="left" width="410px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
-<table align="right" height="410px">
+<h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i> &ensp;🛠️</h2>
+<img align="left" height="295px" width="300px" alt="quote" src="./technology.gif"/>
+<table align="right" height="300px">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
+      <img src="https://user-images.githubusercontent.com/86276393/195136732-47fe1df9-2591-445a-bfac-fe540315f2a5.svg" width="65px" alt="windows icon"/><br>
       <sub>
         <b>
-          <pre>Terminal</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
-      <sub>
-        <b>
-          <pre>Javascript</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;CSS3&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-        <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
-      <sub>
-        <b>
-          <pre>HTML5</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;Git&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
-      <sub>
-        <b>
-          <pre>ReactJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="styled-components icon"/><br>
-      <sub>
-        <b>
-          <pre>Styled<br>Components</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
-      <sub>
-        <b>
-          <pre>NodeJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
-      <sub>
-        <b>
-          <pre>Bootstrap</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="JQuery icon"/><br>
-      <sub>
-        <b>
-          <pre>JQuery</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br>
-      <sub>
-        <b>
-          <pre>ViteJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/196552659-0e3000fc-aa8c-4d49-b14f-1d233f1d2b5e.png" width="65px" alt="Create React App icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;CRA&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" width="65px" alt="ExpressJS icon"/><br>
-      <sub>
-        <b>
-          <pre>ExpressJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177162603-b078ec0b-5097-4067-9e04-f2e260e298a8.png" width="65px" alt="Yarn/npm icon"/><br>
-      <sub>
-        <b>
-          <pre>Yarn/npm</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="65px" alt="Axios icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;Axios&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
-      <sub>
-        <b>
-          <pre>Insomnia</pre>
+          <pre>Windows</pre>
         </b>
       </sub>
     </td>
@@ -171,127 +45,250 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="linux icon"/><br>
+      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
       <sub>
         <b>
-          <pre>Linux</pre>
+          <pre>HTML5</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/195136732-47fe1df9-2591-445a-bfac-fe540315f2a5.svg" width="65px" alt="windows icon"/><br>
+      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
       <sub>
         <b>
-          <pre>Windows</pre>
+          <pre>&ensp;CSS3&ensp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
+      <sub>
+        <b>
+          <pre>Javascript</pre>
         </b>
       </sub>
     </td>
   </tr>
-</table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="center">📩 &ensp; Ｃｏｎｔａｃｔ</h2>
-<img align="left" width="260px" src="./oh-ok.gif" alt="anime coding">
-<br><br><br>
+  <tr>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Git&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;GitHub&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br>
+      <sub>
+        <b>
+          <pre>Figma</pre>
+        </b>
+      </sub>
+    </td>
+<!--     <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
+      <sub>
+        <b>
+          <pre>React</pre>
+        </b>
+      </sub>
+    </td>
+     <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/177162603-b078ec0b-5097-4067-9e04-f2e260e298a8.png" width="65px" alt="Yarn/npm icon"/><br>
+      <sub>
+        <b>
+          <pre>Yarn/npm</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br>
+      <sub>
+        <b>
+          <pre>ViteJS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript icon"/><br>
+      <sub>
+        <b>
+          <pre>TypeScript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="tailwind icon"/><br>
+      <sub>
+        <b>
+          <pre>Tailwind</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
+      <sub>
+        <b>
+          <pre>NodeJS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
+      <sub>
+        <b>
+          <pre>Terminal</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
+      <sub>
+        <b>
+          <pre>Insomnia</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>-->
+</table> 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏｓ</i> &ensp;💬</h2>
+<img align="left" width="220px" height="180px" src="./eye.webp" alt="anime coding">
+<br><br>
 <p align="center">
-  <a href="https://export-download.canva.com/NskEY/DAFOAmNskEY/103/0-37189062837.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20221005%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221005T102753Z&X-Amz-Expires=26369&X-Amz-Signature=e9736a0c26ddc834157637bb3af1e3ffa4e1c9fc28f456d924dcc37c1843e300&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Lucas-Maciel-curr%25C3%25ADculo-frontend-v1.4.pdf&response-expires=Wed%2C%2005%20Oct%202022%2017%3A47%3A22%20GMT">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
+  <a href="https://docs.google.com/document/d/1h95nKIQ5ASSYmv8kV7I2Za1CLo9_5ELUt92S_SSwaSk/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
   </a>
-  <a href="mailto:luk4xm4ci3l@gmail.com" alt="Gmail" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/lucasmacielf/" alt="Linkedin" target="_blank">
+  <a href = "mailto:desenvjonathan@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://www.linkedin.com/in/jonathan-ramos-p/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
-  <a href="https://t.me/lu_k4x" alt="Telegram" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
-  </a>
-  <a href="https://wa.me/5522996112570?text=Yo,%20feel%20free%20to%20contact%20me." alt="WhatsApp" target="_blank">
+  <a href="https://wa.me/5561982272090?text=Sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." alt="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
   </a>
-  <a href="https://www.instagram.com/lu_k4x/" alt="Instagram" target="_blank">
+  <a href="https://www.instagram.com/jon_ramos97/" alt="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
   </a>
-  <a href="https://line.me/ti/p/9DbuEDA6O7" alt="line" target="_blank">
-    <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="line">
-  </a>
-  <a href="https://stackoverflow.com/users/18881418/lucas-maciel" alt="stack overflow" target="_blank">
-    <img src="https://user-images.githubusercontent.com/86276393/194973392-6c133c92-13a3-4659-8fb1-08073cd1b417.png" alt="line">
-  </a>
-  <img src="https://user-images.githubusercontent.com/86276393/177438405-e828976c-3773-4b4e-a3f3-dc888c759003.png" alt="discord">
+  <img src="./discord.svg" alt="discord">
 </p>
-<br><br><br><br><br>
+<br><br><br>
 
-<h2 align="center">🗃️ &ensp; Ｐｒｏｊｅｃｔｓ</h2>
-<img align="right" src="./projects-wallpaper.gif" height="651px" alt="projects image">
-<table height="650px">
+<h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
+<img align="right" src="./rain-study.gif" height="495px" width="380px" alt="projects image">
+<table height="495px" width="380px">
   <tr>
     <td>
-    <a href="https://github.com/Luk4x/iManager" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=iManager&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/desenvjonathan/desenvjonathan" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=desenvjonathan&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/Luk4x/dev-burger-order-log-interface" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=dev-burger-order-log-interface&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/desenvjonathan/mini-portfolio" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=mini-portfolio&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/desenvjonathan/nlw-copa" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=nlw-copa&theme=tokyonight&hide_border=true">
   </a>
     </td>
   </tr>
   <tr>
     <td>
-     <a href="https://github.com/Luk4x/viaCEP-API" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=viaCEP-API&theme=tokyonight&hide_border=true">
+     <a href="https://github.com/desenvjonathan/responsive03" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=responsive03&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/Luk4x/devClub-convert-money" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=devClub-convert-money&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/desenvjonathan/responsive02" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=responsive02&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/Luk4x/user-register-interface" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=user-register-interface&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/desenvjonathan/responsive01" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=responsive01&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/Luk4x/playstation-store" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=playstation-store&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/desenvjonathan/nlw-esports-explorer" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=nlw-esports-explorer&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/Luk4x/project-collor" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=project-collor&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/desenvjonathan/what-i-watch" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=what-i-watch&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/Luk4x/dev-burger-order-log-API" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=dev-burger-order-log-API&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/desenvjonathan/form03" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=form03&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/Luk4x/projeto-calculadora" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=projeto-calculadora&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/desenvjonathan/form02" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=form02&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/Luk4x/user-register-API" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=user-register-API&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/desenvjonathan/form01" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=form01&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/desenvjonathan/layout03" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=layout03&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/desenvjonathan/layout02" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=layout02&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/desenvjonathan/layout01" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=layout01&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
@@ -300,28 +297,13 @@
 
 <h2 align="center">
 <details open>
-<summary>📈 &ensp; Ａｃｔｉｖｉｔｙ</summary>
+<summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅｓ</i> &ensp;📈</summary>
 <br>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Luk4x&theme=tokyo-night&hide_border=true">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=desenvjonathan&theme=tokyo-night&hide_border=true">
 <br><br>
-<img align="left" height="490px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true">
+<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desenvjonathan&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
-<img height="240px" src="https://github-readme-stats.vercel.app/api?username=Luk4x&show_icons=true&custom_title=Luk4x's%20Github%20Stats&theme=tokyonight&hide_border=true">
-<img height="240px" src="https://github-readme-streak-stats.herokuapp.com/?user=Luk4x&theme=tokyonight&hide_border=true">
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=desenvjonathan&show_icons=true&custom_title=Jonathan's%20Github%20Stats&theme=tokyonight&hide_border=true">
+<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=desenvjonathan&theme=tokyonight&hide_border=true">
 </div>
 </details>
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" alt="portfolio">
-</a>
--->

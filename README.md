@@ -1,8 +1,8 @@
 <img align="left" width="100%" alt="about" src="./chill.gif"/>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
-<img align="right" src="./yo.gif" width="370px" alt="anime chilling">
+<img align="right" src="./yo.gif" width="360px" alt="anime chilling">
 <!-- <table align="center">
   <tr>
     <td>
@@ -25,8 +25,8 @@
 <br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i> &ensp;🛠️</h2>
-<img align="left" width="280px" alt="quote" src="./technology.gif"/>
-<table align="right" height="279px">
+<img align="left" height="295px" width="300px" alt="quote" src="./technology.gif"/>
+<table align="right" height="300px">
   <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/195136732-47fe1df9-2591-445a-bfac-fe540315f2a5.svg" width="65px" alt="windows icon"/><br>
@@ -95,7 +95,7 @@
         </b>
       </sub>
     </td>
-    <td align="center">
+<!--     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
       <sub>
         <b>
@@ -112,7 +112,6 @@
       </sub>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br>
@@ -155,7 +154,6 @@
       </sub>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
@@ -165,12 +163,12 @@
         </b>
       </sub>
     </td>
-  </tr>
-</table>
+  </tr>-->
+</table> 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏｓ</i> &ensp;💬</h2>
-<img align="left" width="185px" src="./eye.webp" alt="anime coding">
+<img align="left" width="220px" height="180px" src="./eye.webp" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://docs.google.com/document/d/1h95nKIQ5ASSYmv8kV7I2Za1CLo9_5ELUt92S_SSwaSk/edit?usp=sharing">
@@ -181,7 +179,7 @@
   <a href="https://www.linkedin.com/in/jonathan-ramos-p/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
-  <a href="https://wa.me/5561982272090?text=Yo,%20sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." alt="WhatsApp" target="_blank">
+  <a href="https://wa.me/5561982272090?text=Sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." alt="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
   </a>
   <a href="https://www.instagram.com/jon_ramos97/" alt="Instagram" target="_blank">
@@ -192,8 +190,15 @@
 <br><br><br>
 
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
-<img align="right" src="./rain-study.gif" height="496px" alt="projects image">
-<table height="495px">
+<img align="right" src="./kame-camp.png" height="495px" width="380px" alt="projects image">
+<table height="495px" width="380px">
+  <tr>
+    <td>
+    <a href="https://github.com/desenvjonathan/desenvjonathan" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=desenvjonathan&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/mini-portfolio" target="_blank">
@@ -294,9 +299,9 @@
 <br>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=desenvjonathan&theme=tokyo-night&hide_border=true">
 <br><br>
-<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desenvjonathan&langs_count=8&theme=tokyonight&hide_border=true">
+<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desenvjonathan&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=desenvjonathan&show_icons=true&custom_title=Luk4x's%20Github%20Stats&theme=tokyonight&hide_border=true">
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=desenvjonathan&show_icons=true&custom_title=Jonathan's%20Github%20Stats&theme=tokyonight&hide_border=true">
 <img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=desenvjonathan&theme=tokyonight&hide_border=true">
 </div>
 </details>
