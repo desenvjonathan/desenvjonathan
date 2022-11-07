@@ -192,8 +192,8 @@
 <br><br><br>
 
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
-<img align="right" src="./kame-camp.png" height="495px" width="367px" alt="projects image">
-<table height="495px" width="367px">
+<img align="right" src="./kame-camp.png" height="495px" width="365px" alt="projects image">
+<table height="495px" width="365px">
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/desenvjonathan" target="_blank">
