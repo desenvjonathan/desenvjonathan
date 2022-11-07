@@ -170,7 +170,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏｓ</i> &ensp;💬</h2>
-<img align="left" width="220px" height="180px" src="./eye.webp" alt="anime coding">
+<img align="left" width="220px" height="180px" src="./coffee.gif" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://docs.google.com/document/d/1h95nKIQ5ASSYmv8kV7I2Za1CLo9_5ELUt92S_SSwaSk/edit?usp=sharing">
@@ -192,7 +192,7 @@
 <br><br><br>
 
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
-<img align="right" src="./rain-study.gif" height="495px" width="380px" alt="projects image">
+<img align="right" src="./kame-camp.png" height="495px" width="380px" alt="projects image">
 <table height="495px" width="380px">
   <tr>
     <td>
