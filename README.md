@@ -48,7 +48,7 @@
       <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
       <sub>
         <b>
-          <pre>HTML5</pre>
+          <pre>HTML</pre>
         </b>
       </sub>
     </td>
@@ -56,7 +56,7 @@
       <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
       <sub>
         <b>
-          <pre>&ensp;CSS3&ensp;</pre>
+          <pre>&ensp;CSS&ensp;</pre>
         </b>
       </sub>
     </td>
@@ -64,7 +64,7 @@
       <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
       <sub>
         <b>
-          <pre>Javascript</pre>
+          <pre>JavaScript</pre>
         </b>
       </sub>
     </td>
@@ -90,7 +90,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="65px" alt="Markdown icon"/><br>
       <sub>
         <b>
-          <pre>Markdwon</pre>
+          <pre>Markdown</pre>
         </b>
       </sub>
     </td>
