@@ -69,7 +69,6 @@
       </sub>
     </td>
   </tr>
-
   <tr>
     <td align="center" width="100px;">
       <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
@@ -88,6 +87,14 @@
       </sub>
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="65px" alt="Markdown icon"/><br>
+      <sub>
+        <b>
+          <pre>Markdwon</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br>
       <sub>
         <b>
@@ -95,7 +102,7 @@
         </b>
       </sub>
     </td>
-<!--     <td align="center">
+<!--<td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
       <sub>
         <b>
