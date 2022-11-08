@@ -16,9 +16,9 @@
   </tr>
 </table> -->
 <ul align="left">
-    <li>🤩️ Amante da Tecnologia, Animes, Café e Lo-Fi 🤩️</li>
-    <li>🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end 🚀</li>
-    <li>💻 Estudo na Faculdade <a href="https://www.iesb.br/" target="_blank">IESB</a> e na escola de formação de devs <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>. Atualmente estou aprendendo <b>JavaScript</b> e <b>ReactJS</b> na Rocketseat e <b>Python</b> na IESB. 💻</li>
+    <li>🤩️ Amante da Tecnologia, Animes, Café e Lo-Fi 🤩️</li><br>
+    <li>🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end 🚀</li><br>
+    <li>💻 Estudo na Faculdade <a href="https://www.iesb.br/" target="_blank">IESB</a> e na escola de formação de devs <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>. Atualmente estou aprendendo <b>JavaScript</b> e <b>ReactJS</b> na Rocketseat e <b>Python</b> na IESB. 💻</li><br>
     <li>🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedor Front-End (talvez Fullstack) Web e Mobile. 🔮
 </ul>
 <br>
