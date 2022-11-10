@@ -2,7 +2,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
-<img align="right" src="./yo.gif" width="360px" alt="anime chilling">
+<img align="right" src="./yo.gif" width="360px" height="250px" alt="anime chilling">
 <!-- <table align="center">
   <tr>
     <td>
@@ -16,11 +16,10 @@
   </tr>
 </table> -->
 <ul align="left">
-    <li>🤩️ Amante da Tecnologia, Animes, Café e Lo-Fi 🤩️</li>
-    <li>🚀 Estou em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end 🚀</li>
-    <li>💻 Estudo na Faculdade <a href="https://www.iesb.br/" target="_blank"> IESB </a> e na escola de formação de devs <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> 💻</li>
-    <li>📝 Atualmente estou aprendendo <b>JavaScript</b> e <b>ReactJS</b> na Rocketseat e <b>Python</b> na IESB. 📝</li>
-    <li>🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedor front-end (talvez fullstack) Web e Mobile. 🔮
+    <li>🤩️ Amante da Tecnologia, Animes, Café e Lo-Fi 🤩️</li><br>
+    <li>🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end 🚀</li><br>
+    <li>💻 Estudo na Faculdade <a href="https://www.iesb.br/" target="_blank">IESB</a> e na escola de formação de devs <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>. Atualmente estou aprendendo <b>JavaScript</b> e <b>ReactJS</b> na Rocketseat e <b>Python</b> na IESB 💻</li><br>
+    <li>🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedor Front-End (talvez Fullstack) Web e Mobile 🔮
 </ul>
 <br>
 
@@ -28,14 +27,6 @@
 <img align="left" height="295px" width="300px" alt="quote" src="./coding.gif"/>
 <table align="right" height="300px">
   <tr>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/195136732-47fe1df9-2591-445a-bfac-fe540315f2a5.svg" width="65px" alt="windows icon"/><br>
-      <sub>
-        <b>
-          <pre>Windows</pre>
-        </b>
-      </sub>
-    </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
       <sub>
@@ -48,7 +39,7 @@
       <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
       <sub>
         <b>
-          <pre>HTML5</pre>
+          <pre>HTML</pre>
         </b>
       </sub>
     </td>
@@ -56,7 +47,7 @@
       <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
       <sub>
         <b>
-          <pre>&ensp;CSS3&ensp;</pre>
+          <pre>&ensp;CSS&ensp;</pre>
         </b>
       </sub>
     </td>
@@ -64,12 +55,11 @@
       <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
       <sub>
         <b>
-          <pre>Javascript</pre>
+          <pre>JavaScript</pre>
         </b>
       </sub>
     </td>
   </tr>
-
   <tr>
     <td align="center" width="100px;">
       <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
@@ -88,6 +78,14 @@
       </sub>
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="65px" alt="Markdown icon"/><br>
+      <sub>
+        <b>
+          <pre>Markdown</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br>
       <sub>
         <b>
@@ -95,7 +93,7 @@
         </b>
       </sub>
     </td>
-<!--     <td align="center">
+<!--<td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
       <sub>
         <b>
