@@ -112,7 +112,6 @@
       </sub>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br>
@@ -155,7 +154,6 @@
       </sub>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
@@ -173,19 +171,22 @@
 <img align="left" width="220px" height="180px" src="./coffee.gif" alt="anime coding">
 <br><br>
 <p align="center">
-  <a href="https://docs.google.com/document/d/1h95nKIQ5ASSYmv8kV7I2Za1CLo9_5ELUt92S_SSwaSk/edit?usp=sharing">
+  <a href="https://docs.google.com/document/d/1h95nKIQ5ASSYmv8kV7I2Za1CLo9_5ELUt92S_SSwaSk/edit?usp=sharing" alt="currículo">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
   </a>
-  <a href = "mailto:desenvjonathan@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  <a href = "mailto:desenvjonathan@hotmail.com" alt="e-mail"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://desenvjonathan.github.io/mini-portfolio/" alt="Portfólio" target="_blank">
+    <img src="./portfolio.svg" alt="Portfólio">
   </a> 
   <a href="https://www.linkedin.com/in/jonathan-ramos-p/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
   <a href="https://wa.me/5561982272090?text=Sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." alt="WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp">
   </a>
   <a href="https://www.instagram.com/jon_ramos97/" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <img src="./discord.svg" alt="discord">
 </p>
