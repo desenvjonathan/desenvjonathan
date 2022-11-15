@@ -2,7 +2,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
-<img align="right" src="./yo.gif" width="360px" height="250px" alt="anime chilling">
+<img align="right" src="./about-me.gif" width="360px" height="360px" alt="about me">
 <!-- <table align="center">
   <tr>
     <td>
@@ -16,7 +16,7 @@
   </tr>
 </table> -->
 <ul align="left">
-    <li>🤩️ Amante da Tecnologia, Animes, Café e Lo-Fi 🤩️</li><br>
+    <li>🤩️ Amante de Tecnologia, Jogos, Café, Anime e Lo-Fi 🤩️</li><br>
     <li>🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end 🚀</li><br>
     <li>💻 Estudo na Faculdade <a href="https://www.iesb.br/" target="_blank">IESB</a> e na escola de formação de devs <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>. Atualmente estou aprendendo <b>JavaScript</b> e <b>ReactJS</b> na Rocketseat e <b>Python</b> na IESB 💻</li><br>
     <li>🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedor Front-End (talvez Fullstack) Web e Mobile 🔮
@@ -166,7 +166,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏｓ</i> &ensp;💬</h2>
-<img align="left" width="220px" height="180px" src="./coffee.gif" alt="anime coding">
+<img align="left" width="220px" height="180px" src="./contato.gif" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://docs.google.com/document/d/1h95nKIQ5ASSYmv8kV7I2Za1CLo9_5ELUt92S_SSwaSk/edit?usp=sharing" alt="currículo">
@@ -191,7 +191,7 @@
 <br><br><br>
 
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
-<img align="right" src="./kame-camp.png" height="495px" width="365px" alt="projects image">
+<img align="right" src="./cyberpunk.gif" height="495px" width="365px" alt="projects image">
 <table height="495px" width="365px">
   <tr>
     <td>
