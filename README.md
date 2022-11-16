@@ -1,8 +1,8 @@
-<img align="left" width="100%" alt="about" src="./mario-dev.gif"/>
+<img align="left" width="100%" alt="about" src="./images/mario-dev.gif"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
-<img align="right" src="./about-me.gif" width="313px" height="313px" alt="about me">
+<img align="right" src="./images/about-me.gif" width="313px" height="313px" alt="about me">
 <!-- <table align="center">
   <tr>
     <td>
@@ -24,7 +24,7 @@
 <br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i> &ensp;🛠️</h2>
-<img align="left" height="295px" width="300px" alt="quote" src="./coding.gif"/>
+<img align="left" height="295px" width="300px" alt="quote" src="./images/coding.gif"/>
 <table align="right" height="300px">
   <tr>
     <td align="center">
@@ -166,32 +166,32 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏｓ</i> &ensp;💬</h2>
-<img align="left" width="220px" height="180px" src="./who-are-you.gif" alt="anime coding">
+<img align="left" width="220px" height="180px" src="./images/who-are-you.gif" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://docs.google.com/document/d/1h95nKIQ5ASSYmv8kV7I2Za1CLo9_5ELUt92S_SSwaSk/edit?usp=sharing" alt="currículo">
-    <img src="./curriculo.svg" alt="resume">
+    <img src="./images/curriculo.svg" alt="currículo">
   </a>
-  <a href = "mailto:desenvjonathan@hotmail.com" alt="e-mail"><img src="./e-mail.svg" target="_blank">
+  <a href = "mailto:desenvjonathan@hotmail.com" alt="e-mail"><img src="./images/e-mail.svg" target="_blank">
   </a> 
   <a href="https://desenvjonathan.github.io/mini-portfolio/" alt="Portfólio" target="_blank">
-    <img src="./portfolio.svg" alt="Portfólio">
+    <img src="./images/portfolio.svg" alt="Portfólio">
   </a> 
   <a href="https://www.linkedin.com/in/jonathan-ramos-p/" alt="Linkedin" target="_blank">
-    <img src="./linkedin.svg" alt="linkedin">
+    <img src="./images/linkedin.svg" alt="linkedin">
   </a>
   <a href="https://wa.me/5561982272090?text=Sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." alt="WhatsApp" target="_blank">
-    <img src="./whatsapp.svg" alt="Whatsapp">
+    <img src="./images/whatsapp.svg" alt="Whatsapp">
   </a>
   <a href="https://www.instagram.com/jon_ramos97/" alt="Instagram" target="_blank">
-    <img src="./instagram.svg" alt="Instagram">
+    <img src="./images/instagram.svg" alt="Instagram">
   </a>
-  <img src="./discord.svg" alt="discord">
+  <img src="./images/discord.svg" alt="discord">
 </p>
 <br><br><br>
 
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
-<img align="right" src="./cyberpunk.gif" height="495px" width="365px" alt="projects image">
+<img align="right" src="./images/cyberpunk.gif" height="495px" width="365px" alt="projects image">
 <table height="495px" width="365px">
   <tr>
     <td>
