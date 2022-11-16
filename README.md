@@ -166,7 +166,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏｓ</i> &ensp;💬</h2>
-<img align="left" width="220px" height="180px" src="./contato.gif" alt="anime coding">
+<img align="left" width="220px" height="180px" src="./who-are-you.gif" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://docs.google.com/document/d/1h95nKIQ5ASSYmv8kV7I2Za1CLo9_5ELUt92S_SSwaSk/edit?usp=sharing" alt="currículo">
