@@ -170,23 +170,23 @@
 <br><br>
 <p align="center">
   <a href="https://docs.google.com/document/d/1h95nKIQ5ASSYmv8kV7I2Za1CLo9_5ELUt92S_SSwaSk/edit?usp=sharing" alt="currículo">
-    <img src="./images/curriculo.svg" alt="currículo">
+    <img src="./images/button/curriculo.svg" alt="currículo">
   </a>
-  <a href = "mailto:desenvjonathan@hotmail.com" alt="e-mail"><img src="./images/e-mail.svg" target="_blank">
+  <a href = "mailto:desenvjonathan@hotmail.com" alt="e-mail"><img src="./images/button/e-mail.svg" target="_blank">
   </a> 
   <a href="https://desenvjonathan.github.io/mini-portfolio/" alt="Portfólio" target="_blank">
-    <img src="./images/portfolio.svg" alt="Portfólio">
+    <img src="./images/button/portfolio.svg" alt="Portfólio">
   </a> 
   <a href="https://www.linkedin.com/in/jonathan-ramos-p/" alt="Linkedin" target="_blank">
-    <img src="./images/linkedin.svg" alt="linkedin">
+    <img src="./images/button/linkedin.svg" alt="linkedin">
   </a>
   <a href="https://wa.me/5561982272090?text=Sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." alt="WhatsApp" target="_blank">
-    <img src="./images/whatsapp.svg" alt="Whatsapp">
+    <img src="./images/button/whatsapp.svg" alt="Whatsapp">
   </a>
   <a href="https://www.instagram.com/jon_ramos97/" alt="Instagram" target="_blank">
-    <img src="./images/instagram.svg" alt="Instagram">
+    <img src="./images/button/instagram.svg" alt="Instagram">
   </a>
-  <img src="./images/discord.svg" alt="discord">
+  <img src="./images/button/discord.svg" alt="discord">
 </p>
 <br><br><br>
 
