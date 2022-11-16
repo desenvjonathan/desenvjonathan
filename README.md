@@ -209,6 +209,13 @@
   </tr>
   <tr>
     <td>
+    <a href="https://github.com/desenvjonathan/guessing-game" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=guessing-game&theme=tokyonight&hide_border=true">
+  </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
     <a href="https://github.com/desenvjonathan/nlw-copa" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=nlw-copa&theme=tokyonight&hide_border=true">
   </a>
