@@ -2,7 +2,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
-<img align="right" src="./about-me.gif" width="350px" height="350px" alt="about me">
+<img align="right" src="./about-me.gif" width="330px" height="330px" alt="about me">
 <!-- <table align="center">
   <tr>
     <td>
