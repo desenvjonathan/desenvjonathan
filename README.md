@@ -209,8 +209,8 @@
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/imc" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=imc&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/desenvjonathan/imc-calculator" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=imc-calculator&theme=tokyonight&hide_border=true">
   </a>
     </td>
   </tr>
