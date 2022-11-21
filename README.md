@@ -23,7 +23,7 @@
 </ul>
 <br>
 
-<h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i> &ensp;🛠️</h2>
+<h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
 <img align="left" height="295px" width="300px" alt="quote" src="./images/coding.gif"/>
 <table align="right" height="300px">
   <tr>
@@ -165,7 +165,7 @@
 </table> 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏｓ</i> &ensp;💬</h2>
+<h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;💬</h2>
 <img align="left" width="220px" height="180px" src="./images/who-are-you.gif" alt="anime coding">
 <br><br>
 <p align="center">
@@ -310,7 +310,7 @@
 
 <h2 align="center">
 <details open>
-<summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅｓ</i> &ensp;📈</summary>
+<summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
 <br>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=desenvjonathan&theme=tokyo-night&hide_border=true">
 <br><br>
