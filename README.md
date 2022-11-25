@@ -209,6 +209,20 @@
   </tr>
   <tr>
     <td>
+    <a href="https://github.com/desenvjonathan/rocketnotes" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=rocketnotes&theme=tokyonight&hide_border=true">
+  </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/desenvjonathan/focustimer" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=focustimer&theme=tokyonight&hide_border=true">
+  </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
     <a href="https://github.com/desenvjonathan/imc-calculator" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=imc-calculator&theme=tokyonight&hide_border=true">
   </a>
