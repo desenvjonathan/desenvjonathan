@@ -59,6 +59,14 @@
         </b>
       </sub>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
+      <sub>
+        <b>
+          <pre>React</pre>
+        </b>
+      </sub>
+    </td>
   </tr>
   <tr>
     <td align="center" width="100px;">
@@ -94,14 +102,6 @@
       </sub>
     </td>
 <!--<td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
-      <sub>
-        <b>
-          <pre>React</pre>
-        </b>
-      </sub>
-    </td>
-     <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/177162603-b078ec0b-5097-4067-9e04-f2e260e298a8.png" width="65px" alt="Yarn/npm icon"/><br>
       <sub>
         <b>
