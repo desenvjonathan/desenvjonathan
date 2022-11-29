@@ -69,11 +69,11 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;Git&emsp;</pre>
+          <pre>Vite</pre>
         </b>
       </sub>
     </td>
@@ -85,11 +85,11 @@
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="65px" alt="Markdown icon"/><br>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
       <sub>
         <b>
-          <pre>Markdown</pre>
+          <pre>&emsp;Git&emsp;</pre>
         </b>
       </sub>
     </td>
@@ -101,6 +101,15 @@
         </b>
       </sub>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=md" width="65px" alt="Markdown icon"/><br>
+      <sub>
+        <b>
+          <pre>Markdown</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
 <!--<td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/177162603-b078ec0b-5097-4067-9e04-f2e260e298a8.png" width="65px" alt="Yarn/npm icon"/><br>
       <sub>
@@ -111,14 +120,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br>
-      <sub>
-        <b>
-          <pre>ViteJS</pre>
-        </b>
-      </sub>
-    </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript icon"/><br>
       <sub>
