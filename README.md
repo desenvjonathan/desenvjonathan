@@ -337,5 +337,5 @@
 </details>
 <br>
 
-<img src="./images/heart.gif" alt="coração" height="45px" />
+<img src="./images/heart.gif" alt="coração" height="40px" />
 <img src="https://img.shields.io/github/license/desenvjonathan/desenvjonathan?style=for-the-badge&logo=unlicense&logoColor=lightgrey&color=70A5FD" alt="desenvjonathan repo license" height="40px" />
