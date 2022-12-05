@@ -197,126 +197,126 @@
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/desenvjonathan" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=desenvjonathan&theme=tokyonight&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=desenvjonathan&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/mini-portfolio" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=mini-portfolio&theme=tokyonight&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=mini-portfolio&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/rocketnotes" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=rocketnotes&theme=tokyonight&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=rocketnotes&theme=tokyonight&hide_border=true&cache_seconds=0">
   </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/focustimer" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=focustimer&theme=tokyonight&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=focustimer&theme=tokyonight&hide_border=true&cache_seconds=0">
   </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/imc-calculator" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=imc-calculator&theme=tokyonight&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=imc-calculator&theme=tokyonight&hide_border=true&cache_seconds=0">
   </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/guessing-game" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=guessing-game&theme=tokyonight&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=guessing-game&theme=tokyonight&hide_border=true&cache_seconds=0">
   </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/nlw-copa" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=nlw-copa&theme=tokyonight&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=nlw-copa&theme=tokyonight&hide_border=true&cache_seconds=0">
   </a>
     </td>
   </tr>
   <tr>
     <td>
      <a href="https://github.com/desenvjonathan/responsive03" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=responsive03&theme=tokyonight&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=responsive03&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/responsive02" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=responsive02&theme=tokyonight&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=responsive02&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/responsive01" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=responsive01&theme=tokyonight&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=responsive01&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/nlw-esports-explorer" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=nlw-esports-explorer&theme=tokyonight&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=nlw-esports-explorer&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/what-i-watch" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=what-i-watch&theme=tokyonight&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=what-i-watch&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/form03" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=form03&theme=tokyonight&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=form03&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/form02" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=form02&theme=tokyonight&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=form02&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/form01" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=form01&theme=tokyonight&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=form01&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/layout03" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=layout03&theme=tokyonight&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=layout03&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/layout02" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=layout02&theme=tokyonight&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=layout02&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/desenvjonathan/layout01" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=layout01&theme=tokyonight&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=layout01&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
@@ -327,13 +327,14 @@
 <details open>
 <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
 <br>
-<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desenvjonathan&langs_count=8&theme=tokyonight&hide_border=true">
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=desenvjonathan&theme=tokyo-night&hide_border=true&cache_seconds=0">
+<br><br>
+<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desenvjonathan&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=0">
 <div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=desenvjonathan&show_icons=true&custom_title=Jonathan's%20Github%20Stats&theme=tokyonight&hide_border=true">
-<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=desenvjonathan&theme=tokyonight&hide_border=true">
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=desenvjonathan&show_icons=true&custom_title=Jonathan's%20Github%20Stats&theme=tokyonight&hide_border=true&cache_seconds=0">
+<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=desenvjonathan&theme=tokyonight&hide_border=true&cache_seconds=0">
 </div>
 </details>
 <br>
-
 <img src="./images/heart.gif" alt="coração" height="40px" width="40px" />
 <img src="https://img.shields.io/github/license/desenvjonathan/desenvjonathan?style=for-the-badge&logo=unlicense&logoColor=lightgrey&color=70A5FD" alt="desenvjonathan repo license" height="40px" />
